@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fourWayz
 - 👀 I’m interested in blockchain and web3
-- 🌱 I’m currently improving my skills in solidity and rust on Dacade
 - 💞️ I’m looking to collaborate on web3 project
 - 📫 How to reach me on fourways915@gmail.com
 - 😄 Pronouns: He
